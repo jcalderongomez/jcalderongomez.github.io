@@ -6,7 +6,7 @@ body{
 }
 
 header{
-    background-image: linear-gradient(to top, rgba(9, 32, 63, 0.7) 0%, rgba(83, 120, 149, 0.7) 200%), url(./img/portada2.jpg);
+    background-image: linear-gradient(to top, rgba(9, 32, 63, 0.7) 0%, rgba(83, 120, 149, 0.7) 200%), url(../images/portada.jpeg);
     background-repeat: no-repeat;
     background-size: cover;
     background-attachment: fixed;
